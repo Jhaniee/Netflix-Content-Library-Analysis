@@ -6,7 +6,6 @@ This project explores the **Netflix Titles dataset** [kaggle.com/datasets/shivam
 The analysis focuses on answering practical business questions through SQL queries, using techniques such as filtering, aggregation, grouping, sorting, date extraction, and string manipulation.
 
 ### Tools Used
-- SQL
 - PostgreSQL
 
 ### Key Analysis Areas
